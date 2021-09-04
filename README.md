@@ -1,1 +1,9 @@
-https://docs.google.com/viewer?url=https://github.com/sreeharikmarar/geektrust-cricket/blob/main/Problem%20Set%204.pdf
+![001](ps_images/0001.jpg)
+![002](ps_images/0002.jpg)
+![003](ps_images/0003.jpg)
+![004](ps_images/0004.jpg)
+![005](ps_images/0005.jpg)
+![006](ps_images/0006.jpg)
+![007](ps_images/0007.jpg)
+![008](ps_images/0008.jpg)
+![009](ps_images/0009.jpg)
