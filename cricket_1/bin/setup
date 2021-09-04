@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -euo pipefail
+IFS=$'\n\t'
+
+if [ `gem query -i -e "bundler"` != true ] ; then
+	echo "Installing bundler"
+    gem install bundler -v 2.0.1
+fi
+
+echo "Installing ruby gems"
+bundle install
+rspec

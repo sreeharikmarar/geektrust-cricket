@@ -1,0 +1,7 @@
+source "https://rubygems.org"
+
+gem 'bundler', '~> 2.0.1'
+gem 'rspec', '~> 3.0'
+gem 'pickup', '~> 0.0.11'
+gem 'pry'
+gem 'rb-readline'
